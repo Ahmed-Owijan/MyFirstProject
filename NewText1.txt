@@ -1,0 +1,7 @@
+Hello!
+
+I'm Ahmed.
+
+this is my new text.
+
+I want to edit it for practice how to use git.
